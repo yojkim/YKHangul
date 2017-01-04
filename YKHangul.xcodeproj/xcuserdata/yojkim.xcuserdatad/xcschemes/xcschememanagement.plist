@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>YKHangulExample.xcscheme</key>
+		<key>YKHangul.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>60176E681E1CA5B700E50FD0</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>60176E7C1E1CA5B700E50FD0</key>
+		<key>609FD7461E1D510800D5954C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

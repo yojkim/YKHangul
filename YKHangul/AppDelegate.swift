@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  YKHangulExample
+//  YKHangul
 //
-//  Created by yojkim on 2017. 1. 4..
+//  Created by yojkim on 2017. 1. 5..
 //  Copyright © 2017년 yojkim. All rights reserved.
 //
 

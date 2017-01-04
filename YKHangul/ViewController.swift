@@ -1,15 +1,15 @@
 //
 //  ViewController.swift
-//  YKHangulExample
+//  YKHangul
 //
-//  Created by yojkim on 2017. 1. 4..
+//  Created by yojkim on 2017. 1. 5..
 //  Copyright © 2017년 yojkim. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     @IBOutlet var stringLabel: UILabel!
     
     override func viewDidLoad() {
@@ -17,7 +17,8 @@ class ViewController: UIViewController {
         
         let hangulSystem = YKHangul()
         
-        stringLabel.text = hangulSystem.getStringConsonant(string: "안녕하세요 저는 yojkim 입니다.", consonantType: .Initial)
+        stringLabel.text = hangulSystem.getStringConsonant(string: "안녕하세요. 저는 yojkim입니다.", consonantType: .Initial)
     }
+
 }
 

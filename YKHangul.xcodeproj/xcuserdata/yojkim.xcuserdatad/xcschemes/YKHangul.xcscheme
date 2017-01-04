@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "60176E681E1CA5B700E50FD0"
+               BlueprintIdentifier = "609FD7461E1D510800D5954C"
                BuildableName = "YKHangul.app"
                BlueprintName = "YKHangul"
                ReferencedContainer = "container:YKHangul.xcodeproj">
@@ -28,21 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "60176E7C1E1CA5B700E50FD0"
-               BuildableName = "YKHangulTests.xctest"
-               BlueprintName = "YKHangulTests"
-               ReferencedContainer = "container:YKHangul.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60176E681E1CA5B700E50FD0"
+            BlueprintIdentifier = "609FD7461E1D510800D5954C"
             BuildableName = "YKHangul.app"
             BlueprintName = "YKHangul"
             ReferencedContainer = "container:YKHangul.xcodeproj">
@@ -65,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60176E681E1CA5B700E50FD0"
+            BlueprintIdentifier = "609FD7461E1D510800D5954C"
             BuildableName = "YKHangul.app"
             BlueprintName = "YKHangul"
             ReferencedContainer = "container:YKHangul.xcodeproj">
@@ -84,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60176E681E1CA5B700E50FD0"
+            BlueprintIdentifier = "609FD7461E1D510800D5954C"
             BuildableName = "YKHangul.app"
             BlueprintName = "YKHangul"
             ReferencedContainer = "container:YKHangul.xcodeproj">
