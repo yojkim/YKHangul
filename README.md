@@ -19,7 +19,7 @@ class ViewController {
 }
 ```
 
-* You can use different consonantType
+* You can use different type of consonant
 
 ```
 .Initial // 초성
@@ -27,4 +27,4 @@ class ViewController {
 .Final   // 종성
 ```
 
-* Character except Korean represent originally
+* Character except Korean represents originally
