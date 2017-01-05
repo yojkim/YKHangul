@@ -13,7 +13,8 @@ class ViewController {
         
         let hangulSystem = YKHangul()
         
-        stringLabel.text = hangulSystem.getStringConsonant(string: "안녕하세요 저는 yojkim 입니다.",
+        /* result = ㅇㄴㅎㅅㅇ ㅈㄴ yojkim ㅇㄴㄷ. */
+        stringLabel.text = hangulSystem.getStringConsonant(string: "안녕하세요 저는 yojkim 입니다.",
                                                            consonantType: .Initial)
     }
 }
